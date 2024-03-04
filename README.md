@@ -85,15 +85,3 @@ Understand the technical workflow and how Google Analytics 4 can be integrated f
 ## Contributing 🤝
 
 We welcome contributions to improve the application. Please fork the repository and submit a pull request with your changes.
-
-## License 📄
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact 📬
-
-For support or queries, please contact us at support@example.com.
-
----
-
-This README is structured to provide an engaging and informative introduction to your Streamlit application, ensuring that users have a clear guide on how to install, run, and interact with your application.
