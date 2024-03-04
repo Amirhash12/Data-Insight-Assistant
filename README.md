@@ -1,6 +1,6 @@
 # Foot Locker MVP Streamlit Demo 🚀
 
-Welcome to our Streamlit Chat & Insights Application, a powerful tool designed to assist with data insights and provide a user-friendly chat interface powered by AI. Dive into an interactive experience that leverages the latest in data analysis, natural language processing, and visualization technologies.
+Welcome to my Data & Insights Streamlit Application, a powerful tool designed to assist with data insights and provide a user-friendly chat interface powered by AI. Dive into an interactive experience that leverages the latest in data analysis, natural language processing, and visualization technologies.
 
 ## Table of Contents 📚
 
